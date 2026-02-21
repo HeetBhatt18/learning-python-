@@ -41,10 +41,10 @@ Python fundamentals.
 ## 📂 Repository Structure
 
     📦 Python-Learning
-     ┣ 📜 lists.py
-     ┣ 📜 tuples.py
-     ┣ 📜 sets.py
-     ┣ 📜 dictionary.py
+     ┣ 📜 lists.ipynb
+     ┣ 📜 tuples.ipynb
+     ┣ 📜 sets.ipynb
+     ┣ 📜 dictionary.ipynb
      ┗ 📜 README.md
 
 ------------------------------------------------------------------------
