@@ -61,7 +61,7 @@ Python fundamentals.
 ## 🚀 Tools Used
 
 -   Python 3\
--   Jupyter Notebook\
+-   Google Colab\
 -   Git & GitHub
 
 ------------------------------------------------------------------------
