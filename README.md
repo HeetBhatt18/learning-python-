@@ -12,7 +12,7 @@ Python fundamentals.
 
 -   Creating lists\
 -   Indexing and slicing\
--   List methods (`append()`, `remove()`, `pop()`, etc.)\
+-   List methods (`append()`, `remove()`, `pop()`,  `insert(index,elem)`,  `reverse()`,  `extend(list2)`,  `clear()`,  `sort()` , `copy()`, `count()`)\
 -   List comprehension
 
 ### 2️⃣ Tuples
