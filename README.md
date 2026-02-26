@@ -20,7 +20,7 @@ Python fundamentals.
 -   Creating tuples\
 -   Tuple packing & unpacking\
 -   Immutable nature of tuples\
--   Tuple methods
+-   Tuple methods (`count(elem)`, `index(elem)`)\
 
 ### 3️⃣ Sets
 
