@@ -36,6 +36,22 @@ Python fundamentals.
 -   Dictionary methods (`keys()`, `values()`, `items()`, `update()`, `del(elem)`, `pop(elem)`)\
 -   Updating and deleting elements
 
+### 5️⃣ Strings
+
+- Creating strings  
+- String indexing and slicing  
+- String methods (`upper()`, `lower()`, `strip()`, `replace()`, `split()`, `join()`, `find()`, `count()`)  
+- String formatting  
+- Iterating through strings
+
+### 6️⃣ Loops
+
+- `for` loop  
+- `while` loop  
+- Loop control statements (`break`, `continue`, `pass`)  
+- Nested loops  
+- Iterating through lists, tuples, sets and dictionaries
+
 ------------------------------------------------------------------------
 
 ## 📂 Repository Structure
@@ -45,6 +61,8 @@ Python fundamentals.
      ┣ 📜 tuples.ipynb
      ┣ 📜 sets.ipynb
      ┣ 📜 dictionary.ipynb
+     ┣ 📜 strings.ipynb
+     ┣ 📜 Loops.ipynb
      ┗ 📜 README.md
 
 ------------------------------------------------------------------------
