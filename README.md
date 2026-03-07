@@ -52,6 +52,12 @@ Python fundamentals.
 - Nested loops  
 - Iterating through lists, tuples, sets and dictionaries
 
+### 7️⃣ Input & Output Examples
+
+- Taking input from user using `input()`  
+- Displaying output using `print()`  
+- Understanding how programs interact with users  
+
 ------------------------------------------------------------------------
 
 ## 📂 Repository Structure
@@ -63,6 +69,7 @@ Python fundamentals.
      ┣ 📜 dictionary.ipynb
      ┣ 📜 strings.ipynb
      ┣ 📜 Loops.ipynb
+     ┣ 📜 Input&output.ipynb
      ┗ 📜 README.md
 
 ------------------------------------------------------------------------
