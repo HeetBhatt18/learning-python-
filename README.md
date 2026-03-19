@@ -56,7 +56,14 @@ Python fundamentals.
 
 - Taking input from user using `input()`  
 - Displaying output using `print()`  
-- Understanding how programs interact with users  
+- Understanding how programs interact with users
+
+### 8️⃣ Control Flow (if–else)
+
+- if statement
+- if-else statement
+- if-elif-else ladder
+- Nested if statements
 
 ------------------------------------------------------------------------
 
@@ -70,6 +77,7 @@ Python fundamentals.
      ┣ 📜 strings.ipynb
      ┣ 📜 Loops.ipynb
      ┣ 📜 Input&output.ipynb
+     ┣ 📜 Control_flow.ipynb
      ┗ 📜 README.md
 
 ------------------------------------------------------------------------
