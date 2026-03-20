@@ -65,6 +65,16 @@ Python fundamentals.
 - if-elif-else ladder
 - Nested if statements
 
+### 9️⃣ Functions
+
+- Defining a function (def)
+- Calling a function
+- Function parameters and arguments
+- Return statement
+- Default argument function 
+- Keyword function
+- Variable function
+
 ------------------------------------------------------------------------
 
 ## 📂 Repository Structure
@@ -78,6 +88,7 @@ Python fundamentals.
      ┣ 📜 Loops.ipynb
      ┣ 📜 Input&output.ipynb
      ┣ 📜 Control_flow.ipynb
+     ┣ 📜 Functions.ipynb
      ┗ 📜 README.md
 
 ------------------------------------------------------------------------
