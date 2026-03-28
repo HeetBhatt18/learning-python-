@@ -75,6 +75,15 @@ Python fundamentals.
 - Keyword function
 - Variable function
 
+🔟 SciPy (Linear Algebra)
+- Introduction to SciPy
+- Working with scipy.linalg
+- Matrix operations:
+    - Determinant → linalg.det()
+    - Inverse → linalg.inv()
+- Eigenvalues and eigenvectors → linalg.eig()
+- Solving linear equations → linalg.solve()
+
 ------------------------------------------------------------------------
 
 ## 📂 Repository Structure
@@ -89,6 +98,7 @@ Python fundamentals.
      ┣ 📜 Input&output.ipynb
      ┣ 📜 Control_flow.ipynb
      ┣ 📜 Functions.ipynb
+     ┣ 📜 Scipy.ipynb
      ┗ 📜 README.md
 
 ------------------------------------------------------------------------
